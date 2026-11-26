@@ -1,0 +1,6 @@
+ticket_id,text
+T-001,invoice request
+T-002,login error
+T-003,setup training
+T-004,payment login
+T-005,other request
